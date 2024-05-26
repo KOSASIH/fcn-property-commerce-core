@@ -1,4 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/FCN-FITRI%20CINTA%20NUSANTARA-blue)
+[![Jekyll site CI](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/jekyll-docker.yml)
 
 # fcn-property-commerce-core
 The core repository for PT.FCN's property and e-commerce platform, containing the main business logic.
