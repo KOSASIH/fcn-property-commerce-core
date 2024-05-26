@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/FCN-FITRI%20CINTA%20NUSANTARA-blue)
+
 # fcn-property-commerce-core
 The core repository for PT.FCN's property and e-commerce platform, containing the main business logic.
 
