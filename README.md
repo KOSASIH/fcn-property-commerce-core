@@ -3,6 +3,7 @@
 [![StackHawk](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/stackhawk.yml/badge.svg)](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/stackhawk.yml)
 [![Jekyll site CI](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/jekyll-docker.yml)
 [![Greetings](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/greetings.yml/badge.svg)](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/greetings.yml)
+[![CodeQL](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/fcn-property-commerce-core/actions/workflows/codeql.yml)
 
 # fcn-property-commerce-core
 The core repository for PT.FCN's property and e-commerce platform, containing the main business logic.
