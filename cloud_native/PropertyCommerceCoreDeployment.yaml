@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: property-commerce-core
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: property-commerce-core
+  template:
+    metadata:
+      labels:
+        app: property-commerce-core
+    spec:
+      containers:
+      - name: property-commerce-core
+        image: property-commerce-core:latest
+        ports:
+        - containerPort: 8080
